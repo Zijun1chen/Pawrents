@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "274273889994",
+    "project_id": "pawrents-ba63c",
+    "storage_bucket": "pawrents-ba63c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274273889994:android:2257fc4d6c0bb585f1ce33",
+        "android_client_info": {
+          "package_name": "com.mycompany.newpawrents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274273889994-belp9tiuv9ho2nv19l1hlghnla3j4k7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGC0H-bea5MCODcHauGrg5mALzvHnQ5s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274273889994-belp9tiuv9ho2nv19l1hlghnla3j4k7o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "274273889994-prltk9fgeitt1iditpkd9fhf676eouoe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pawrents.ba63c"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274273889994:android:ff5230c09e92eedff1ce33",
+        "android_client_info": {
+          "package_name": "pawrents.ba63c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274273889994-u5rdpr4v9i6nkalgqd058dhtc7j1sj2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pawrents.ba63c",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "274273889994-belp9tiuv9ho2nv19l1hlghnla3j4k7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGC0H-bea5MCODcHauGrg5mALzvHnQ5s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274273889994-belp9tiuv9ho2nv19l1hlghnla3j4k7o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "274273889994-prltk9fgeitt1iditpkd9fhf676eouoe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pawrents.ba63c"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
